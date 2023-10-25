@@ -1,0 +1,40 @@
+#titulo1 {
+    text-align: center;
+  }
+  
+  .titulo {
+    padding: 15px;
+    border-bottom: 2px solid grey;
+    display: inline-block;
+  }
+  
+  #boxes {
+    padding-top: 50px;
+    text-align: center;
+    display: flex; 
+    justify-content: center; 
+  }
+  
+  .box {
+    padding: 30px;
+    border: solid 2px;
+    align-items: center;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 20px; 
+  
+  }
+  
+  .image-container {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
